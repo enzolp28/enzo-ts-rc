@@ -42,14 +42,6 @@ Un composant de boîte de dialogue modale réutilisable avec un design moderne e
 | title | string | requis | Le titre affiché en haut de la modale |
 | message | string | requis | Le message principal de la modale |
 
+
 ## Licence
-
 MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
